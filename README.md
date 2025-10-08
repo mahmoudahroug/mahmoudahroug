@@ -5,78 +5,7 @@ I have proven experience in developing **full-stack web applications**, **archit
 I'm always eager to apply my skills in software development and system reliability to solve complex challenges.
 
 ---
-
-### 🌱 What I'm Up To
-
-- 🔭 Currently enhancing my skills in **machine learning** and **cloud-native technologies**  
-- 🌍 Learning more about **distributed systems** and **scalable architectures**  
-- 👯 Looking to collaborate on **open-source projects** related to **AI**, **web development**, or **system automation**  
-- 🤔 Seeking insights into **advanced topics in quantum machine learning**  
-- 💬 Ask me about **full-stack development**, **Docker**, or **machine learning**  
-- 📫 Reach me at: **mahmoudyasser2002@gmail.com**  
-- 😄 Pronouns: **He/Him**
-
----
-
-### 🤝 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudahroug)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudahroug)
-
----
-
-## 🛠️ My Skills
-
-### 🧠 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### ⚙️ Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🧰 Other Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
 ## 🚀 My Projects
-
-<details>
-<summary><b>MineControl - Full-Stack Server & Cloud Environment (Individual)</b></summary>
-
-**Description:** Architected and deployed a multi-functional home server on Ubuntu Linux, hosting services like Samba, Jellyfin, and VPNs.  
-**Features:**
-- Containerized the entire stack (Node.js backend, Nginx proxy, game server) using Docker and Docker Compose for one-command deployment  
-- Implemented a secure REST API with JWT and bcrypt for authentication  
-- Hardened the web front with an Nginx reverse proxy, enabling HTTPS via Let's Encrypt and achieving an A+ on SSL Labs  
-
-**Tech Stack:** Linux, Docker, Docker Compose, Nginx, SSL, Networking, Node.js, Express, JWT, Bash  
-**GitHub:** [Add your link here]
-</details>
 
 <details>
 <summary><b>Bachelor Thesis: Enhanced GRIP++ Model for Multi-Agent Trajectory Prediction (Individual)</b></summary>
@@ -88,6 +17,18 @@ I'm always eager to apply my skills in software development and system reliabili
 - Automated metric tracking (ADE, FDE, WSADE, WSFDE) across epochs  
 
 **Tech Stack:** Python, PyTorch, GNNs, TCNs, Git  
+**GitHub:** [Add your link here]
+</details>
+<details>
+<summary><b>MineControl - Full-Stack Server & Cloud Environment (Individual)</b></summary>
+
+**Description:** Architected and deployed a multi-functional home server on Ubuntu Linux, hosting services like Samba, Jellyfin, and VPNs.  
+**Features:**
+- Containerized the entire stack (Node.js backend, Nginx proxy, game server) using Docker and Docker Compose for one-command deployment  
+- Implemented a secure REST API with JWT and bcrypt for authentication  
+- Hardened the web front with an Nginx reverse proxy, enabling HTTPS via Let's Encrypt and achieving an A+ on SSL Labs  
+
+**Tech Stack:** Linux, Docker, Docker Compose, Nginx, SSL, Networking, Node.js, Express, JWT, Bash  
 **GitHub:** [Add your link here]
 </details>
 
@@ -169,10 +110,55 @@ I'm always eager to apply my skills in software development and system reliabili
 
 ---
 
+## 🛠️ My Skills
+
+### 🧠 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Other Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
 ## 📊 My GitHub Stats
 
 ![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudahroug&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudahroug&layout=compact&theme=radical)
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudahroug)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudahroug)
 
 ---
 
